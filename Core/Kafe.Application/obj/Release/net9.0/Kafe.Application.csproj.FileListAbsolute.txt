@@ -1,0 +1,15 @@
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/bin/Release/net9.0/Kafe.Application.deps.json
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/bin/Release/net9.0/Kafe.Application.dll
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/bin/Release/net9.0/Kafe.Application.pdb
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/bin/Release/net9.0/Kafe.Domain.dll
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/bin/Release/net9.0/Kafe.Domain.pdb
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/Kafe.Application.csproj.AssemblyReference.cache
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/Kafe.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/Kafe.Application.AssemblyInfoInputs.cache
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/Kafe.Application.AssemblyInfo.cs
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/Kafe.Application.csproj.CoreCompileInputs.cache
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/Kafe.App.98D7BE6F.Up2Date
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/Kafe.Application.dll
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/refint/Kafe.Application.dll
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/Kafe.Application.pdb
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/Release/net9.0/ref/Kafe.Application.dll

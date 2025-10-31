@@ -1,0 +1,11 @@
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/bin/Debug/net9.0/Kafe.Domain.deps.json
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/bin/Debug/net9.0/Kafe.Domain.dll
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/bin/Debug/net9.0/Kafe.Domain.pdb
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/obj/Debug/net9.0/Kafe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/obj/Debug/net9.0/Kafe.Domain.AssemblyInfoInputs.cache
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/obj/Debug/net9.0/Kafe.Domain.AssemblyInfo.cs
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/obj/Debug/net9.0/Kafe.Domain.csproj.CoreCompileInputs.cache
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/obj/Debug/net9.0/Kafe.Domain.dll
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/obj/Debug/net9.0/refint/Kafe.Domain.dll
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/obj/Debug/net9.0/Kafe.Domain.pdb
+/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/obj/Debug/net9.0/ref/Kafe.Domain.dll

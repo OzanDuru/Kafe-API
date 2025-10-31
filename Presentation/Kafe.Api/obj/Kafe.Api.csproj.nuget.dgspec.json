@@ -1,0 +1,325 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ozanduru/Desktop/KafeAPI/Presentation/Kafe.Api/Kafe.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/Kafe.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/Kafe.Application.csproj",
+        "projectName": "Kafe.Application",
+        "projectPath": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/Kafe.Application.csproj",
+        "packagesPath": "/Users/ozanduru/.nuget/packages/",
+        "outputPath": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ozanduru/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/Kafe.Domain.csproj": {
+                "projectPath": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/Kafe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/Kafe.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/Kafe.Domain.csproj",
+        "projectName": "Kafe.Domain",
+        "projectPath": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/Kafe.Domain.csproj",
+        "packagesPath": "/Users/ozanduru/.nuget/packages/",
+        "outputPath": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ozanduru/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ozanduru/Desktop/KafeAPI/Infrastructure/Kafe.Persistence/Kafe.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ozanduru/Desktop/KafeAPI/Infrastructure/Kafe.Persistence/Kafe.Persistence.csproj",
+        "projectName": "Kafe.Persistence",
+        "projectPath": "/Users/ozanduru/Desktop/KafeAPI/Infrastructure/Kafe.Persistence/Kafe.Persistence.csproj",
+        "packagesPath": "/Users/ozanduru/.nuget/packages/",
+        "outputPath": "/Users/ozanduru/Desktop/KafeAPI/Infrastructure/Kafe.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ozanduru/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/Kafe.Application.csproj": {
+                "projectPath": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/Kafe.Application.csproj"
+              },
+              "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/Kafe.Domain.csproj": {
+                "projectPath": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Domain/Kafe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ozanduru/Desktop/KafeAPI/Presentation/Kafe.Api/Kafe.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ozanduru/Desktop/KafeAPI/Presentation/Kafe.Api/Kafe.Api.csproj",
+        "projectName": "Kafe.Api",
+        "projectPath": "/Users/ozanduru/Desktop/KafeAPI/Presentation/Kafe.Api/Kafe.Api.csproj",
+        "packagesPath": "/Users/ozanduru/.nuget/packages/",
+        "outputPath": "/Users/ozanduru/Desktop/KafeAPI/Presentation/Kafe.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ozanduru/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/Kafe.Application.csproj": {
+                "projectPath": "/Users/ozanduru/Desktop/KafeAPI/Core/Kafe.Application/Kafe.Application.csproj"
+              },
+              "/Users/ozanduru/Desktop/KafeAPI/Infrastructure/Kafe.Persistence/Kafe.Persistence.csproj": {
+                "projectPath": "/Users/ozanduru/Desktop/KafeAPI/Infrastructure/Kafe.Persistence/Kafe.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

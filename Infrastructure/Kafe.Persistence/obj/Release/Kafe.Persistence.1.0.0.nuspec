@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Kafe.Persistence</id>
+    <version>1.0.0</version>
+    <authors>Kafe.Persistence</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Kafe.Application" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Kafe.Domain" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/ozanduru/Desktop/KafeAPI/Infrastructure/Kafe.Persistence/bin/Release/net9.0/Kafe.Persistence.dll" target="lib/net9.0/Kafe.Persistence.dll" />
+  </files>
+</package>
